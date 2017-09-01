@@ -1,0 +1,16 @@
+{
+  "name": "task-list",
+  "version": "1.0.0",
+  "description": "first node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.26.2",
+    "express": "^4.15.4",
+    "lodash": "^4.17.4"
+  }
+}
